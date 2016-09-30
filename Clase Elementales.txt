@@ -1,0 +1,60 @@
+Fuego - Tierra
+Aire - Agua
+
+-Personalidad de x
+-compatibilidad con x
+-de que elemento es x
+-de donde viene la magia elemental 
+-otro tipo de magia que no sea elemental
+-cual elemento no tiene subclase
+
+Soy la profesora Amelia Van Hasangalk...ñ.
+
+edad...
+
+La primera clase que les voy a dar es sobre la magia elemental y 
+sus origenes. Aparte de la magia elemental tambien existen otros
+tipos de magia, como la magia astral, arcana, transfiguradora, etc.
+
+Todo comenzó hace 500 años cuando los espiritus de los elementos
+decidieron otorgar sus poderes a distintos individuos en el mundo.
+
+Esos elegidos aprendieron a controlar estos poderes, y fueron de a
+poco aprendiendo que otros, incluyendo sus hijos y descendientes
+también podian heredar estos poderes.
+
+El elemento principal en cada persona se basa en la personalidad
+subconsciente que tenga. 
+
+Los que controlan el elemento de fuego son aquellos que son de
+fuerte actitud y un corazón con mucho coraje. El animal elemental 
+del fuego es el zorro.
+
+Aquellos que utilizan el elemento de agua son personas más relajadas,
+quienes siempre ponen adelante a sus amigos antes que a sí mismos.
+Los delfines son los animales relacionadas a este elemento.
+
+El elemento de tierra se encuentra en personas con actitudes más serias,
+y una dedicación muy firme. El animal elemental de la tierra es el buey.
+
+Los ususarios del elemento de aire son caracterizados por buscar
+siempre la paz, pero sin miedo de actuar. Su animal elemental se 
+conoce por ser el halcón.
+
+La compatibilidad que cada usuario tiene es basada en su elemento,
+los de fuego tienen un poco de compatibilidad con la tierra y el aire.
+Los de agua pueden usar tambien la tierra y el agua.
+
+Los usuarios de tierra tienen un poco control sobre el agua y el fuego,
+al igual que el aire tiene un poco de control sobre el agua y fuego.
+
+Tres de los cuatro elementos tienen un tipo de subclase que puede ser
+utilizado por aquellos que dominan completamente su elemento.
+
+Estos se denominan hechiceros, y dependiendo de su elemento pueden 
+aprender a usar la subclase, que en el caso del fuego sería la lava,
+para el agua sería el hielo, y para la tierra sería la piedra.
+
+El elemento de Aire no contiene ningún tipo de subclase, 
+ya que es un tipo de magia con mucha flexibilidad y libertad.
+
